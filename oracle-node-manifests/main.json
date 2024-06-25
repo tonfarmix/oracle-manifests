@@ -1,0 +1,66 @@
+{
+  "interval": 60000,
+  "priceAggregator": "median",
+  "sourceTimeout": 50000,
+  "minValidSourcesPercentage": 10,
+  "deviationCheck": {
+    "deviationWithRecentValues": {
+      "maxPercent": 35,
+      "maxDelayMilliseconds": 300000
+    }
+  },
+  "base": "USD",
+  "defaultSource": ["coingecko"],
+  "tokens": {
+    "TON": {
+      "sources": [
+        "coingecko",
+        "coinmarketcap",
+        "coinbase",
+        "lbank",
+        "bitrue",
+        "tonapi",
+        "dedust"
+      ]
+    },
+    "USDT": {
+      "source": [
+        "coingecko",
+        "coinmarketcap",
+        "bitstamp",
+        "kraken",
+        "coinbase"
+      ]
+    },
+    "STON": {
+      "sources": [
+        "coingecko",
+        "coinmarketcap",
+        "coinbase",
+        "tonapi",
+        "stonfi"
+      ]
+    },
+    "SCALE": {
+      "sources": [
+        "coingecko",
+        "coinmarketcap",
+        "coinbase",
+        "tonapi",
+        "dedust"
+      ]
+    },
+    "NOT": {
+      "sources": [
+        "coingecko",
+        "coinmarketcap",
+        "coinbase",
+        "lbank",
+        "bitrue",
+        "tonapi",
+        "stonfi",
+        "dedust"
+      ]
+    }
+  }
+}
