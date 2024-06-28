@@ -19,7 +19,7 @@
         "coinbase",
         "lbank",
         "bitrue",
-        "tonapi",
+        "tonconsole",
         "dedust"
       ]
     },
@@ -29,7 +29,8 @@
         "coinmarketcap",
         "bitstamp",
         "kraken",
-        "coinbase"
+        "coinbase",
+        "tonconsole"
       ]
     },
     "STON": {
@@ -37,7 +38,7 @@
         "coingecko",
         "coinmarketcap",
         "coinbase",
-        "tonapi",
+        "tonconsole",
         "stonfi"
       ]
     },
@@ -46,7 +47,7 @@
         "coingecko",
         "coinmarketcap",
         "coinbase",
-        "tonapi",
+        "tonconsole",
         "dedust"
       ]
     },
@@ -57,7 +58,7 @@
         "coinbase",
         "lbank",
         "bitrue",
-        "tonapi",
+        "tonconsole",
         "stonfi",
         "dedust"
       ]
