@@ -1,5 +1,5 @@
 {
-  "interval": 60000,
+  "cronExpression": "*/30 * * * * *",
   "priceAggregator": "median",
   "sourceTimeout": 50000,
   "minValidSourcesPercentage": 10,
