@@ -10,32 +10,54 @@
     }
   },
   "base": "USD",
-  "defaultSource": ["tonconsole"],
+  "defaultSource": ["coingecko"],
   "tokens": {
     "TON": {
       "sources": [
-        "tonconsole"
+        "coingecko",
+        "coinmarketcap",
+        "coinbase",
+        "lbank",
+        "bitrue",
+        "tonconsole",
+        "dedust"
       ]
     },
     "USDT": {
       "source": [
+        "coingecko",
+        "coinmarketcap",
+        "bitstamp",
+        "kraken",
+        "coinbase",
         "tonconsole"
       ]
     },
     "STON": {
       "sources": [
+        "coingecko",
+        "coinmarketcap",
+        "coinbase",
         "tonconsole",
         "stonfi"
       ]
     },
     "SCALE": {
       "sources": [
+        "coingecko",
+        "coinmarketcap",
+        "coinbase",
         "tonconsole",
         "dedust"
       ]
     },
     "NOT": {
       "sources": [
+        "coingecko",
+        "coinmarketcap",
+        "coinbase",
+        "lbank",
+        "bitrue",
         "tonconsole",
         "stonfi",
         "dedust"
