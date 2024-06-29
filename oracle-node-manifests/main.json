@@ -14,7 +14,9 @@
   "tokens": {
     "TON": {
       "sources": [
-        "tonconsole"
+        "tonconsole",
+        "stonfi",
+        "dedust"
       ]
     },
     "USDT": {
@@ -37,8 +39,7 @@
     "NOT": {
       "sources": [
         "tonconsole",
-        "stonfi",
-        "dedust"
+        "stonfi"
       ]
     }
   }
