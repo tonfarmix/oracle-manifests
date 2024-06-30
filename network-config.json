@@ -65,10 +65,10 @@
         "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/oracle-node-manifests/main.json"
       },
       "0xc34ad110a63df8241f63bfd27458fab34663369d": {
-        "name": "farmix full 8",
-        "description": "farmix full node 8",
+        "name": "farmix test full 8",
+        "description": "farmix test full node 8",
         "evmAddress": "0xc34ad110a63df8241f63bfd27458fab34663369d",
-        "dataServiceId": "farmix-full-8",
+        "dataServiceId": "farmix-test-full-8",
         "ecdsaPublicKey": "0x38ec70a63eeb66438ae021b4aae144352c15e3ae1e2ed2d263f9eac2d6c85243af9ac4b2b1d8146af1086a4a071c17158b2d50d4f26e699030e110f60f874e9f",
         "tonAdminAddress": "",
         "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/oracle-node-manifests/main.json"
