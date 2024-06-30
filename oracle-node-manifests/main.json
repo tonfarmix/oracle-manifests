@@ -32,14 +32,14 @@
         "coinbase",
         "cryptocom",
         "gateio",
-        "okx",
-        "coinex"
+        "okx"
       ]
     },
     "STON": {
       "source": [
         "tonconsole",
-        "stonfi"
+        "stonfi",
+        "coinex"
       ]
     },
     "SCALE": {
