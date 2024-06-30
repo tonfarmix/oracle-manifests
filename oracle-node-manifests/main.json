@@ -16,18 +16,31 @@
       "source": [
         "tonconsole",
         "stonfi",
-        "dedust"
+        "dedust",
+        "latoken",
+        "cryptocom",
+        "gateio",
+        "lbank",
+        "okx",
+        "phemex",
+        "xt"
       ]
     },
     "USDT": {
       "source": [
-        "tonconsole"
+        "tonconsole",
+        "coinbase",
+        "cryptocom",
+        "gateio",
+        "okx"
       ]
     },
     "STON": {
       "source": [
         "tonconsole",
-        "stonfi"
+        "stonfi",
+        "latoken",
+        "lbank"
       ]
     },
     "SCALE": {
@@ -39,7 +52,15 @@
     "NOT": {
       "source": [
         "tonconsole",
-        "stonfi"
+        "stonfi",
+        "latoken",
+        "coinbase",
+        "cryptocom",
+        "gateio",
+        "lbank",
+        "okx",
+        "phemex",
+        "xt"
       ]
     }
   }
