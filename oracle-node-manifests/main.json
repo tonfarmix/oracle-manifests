@@ -16,7 +16,6 @@
       "source": [
         "tonconsole",
         "stonfi",
-        "dedust",
         "cryptocom",
         "gateio",
         "lbank",
@@ -44,8 +43,7 @@
     },
     "SCALE": {
       "source": [
-        "tonconsole",
-        "dedust"
+        "tonconsole"
       ]
     },
     "NOT": {
