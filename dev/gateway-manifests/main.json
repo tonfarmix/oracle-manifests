@@ -1,0 +1,17 @@
+{
+  "restrictApiToTrustedRequesters": true,
+  "priceDataStorageTTLSeconds": 7200,
+  "trustedPublishers": [
+    "0xa52ec8c02d1c9970109e342517c4d27df9597b6c",
+    "0xd2002a011197c07acc7a19263e875a966db78bc8",
+    "0x3eeb3caf7d84f44dba023958fcdbeae021766db2"
+  ],
+  "trustedRequesters": [
+    "0xa52ec8c02d1c9970109e342517c4d27df9597b6c",
+    "0xd2002a011197c07acc7a19263e875a966db78bc8",
+    "0x3eeb3caf7d84f44dba023958fcdbeae021766db2",
+    "0x59af5b9106bbcbc5fc9586a244a033fe4ecfe9c3",
+    "0x13540da74536f88860371fae9914e2dd6bdacea8",
+    "0xf9893fea0d4746f4636af107c26d06903991c458"
+  ]
+}
