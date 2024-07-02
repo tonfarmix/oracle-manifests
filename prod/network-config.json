@@ -63,28 +63,9 @@
         "ecdsaPublicKey": "0x1f0876adc0a7549737b381d3cd28a07b1d9cb9a922e0f8b17bd617c65d1d1ea28bb828025bbd331aecb592ba74e75a556c4a8456ceca9f01f0c21f57ce70fb54",
         "tonAdminAddress": "",
         "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/oracle-node-manifests/main.json"
-      },
-      "0xc34ad110a63df8241f63bfd27458fab34663369d": {
-        "name": "farmix test full 8",
-        "description": "farmix test full node 8",
-        "evmAddress": "0xc34ad110a63df8241f63bfd27458fab34663369d",
-        "dataServiceId": "farmix-test-full-8",
-        "ecdsaPublicKey": "0x38ec70a63eeb66438ae021b4aae144352c15e3ae1e2ed2d263f9eac2d6c85243af9ac4b2b1d8146af1086a4a071c17158b2d50d4f26e699030e110f60f874e9f",
-        "tonAdminAddress": "",
-        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/oracle-node-manifests/main.json"
       }
     },
     "gateways": {
-      "0xf4c741155586996329c06771dd008ab84d368811": {
-        "name": "farmix test 1",
-        "description": "farmix test gateway 1",
-        "evmAddress": "0xf4c741155586996329c06771dd008ab84d368811",
-        "dataServiceId": "farmix-gate-test-1",
-        "tonAdminAddress": "",
-        "ecdsaPublicKey": "a2ebf27541e627868c4f94f08cce72b0636161a28d425af24f48284990816c3cbac7131e8dbc29b096087ee624f85bd8fb921c3440dc4ca75057d8b1cf05824b",
-        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/gateway-manifests/main.json"
-      },
-
       "0x857b102b1eb1536491dbdfbfde2b1a1123ce14e1": {
         "name": "farmix prod 1",
         "description": "farmix prod gateway 1",

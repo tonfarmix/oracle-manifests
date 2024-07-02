@@ -1,0 +1,6 @@
+{
+  "restrictApiToTrustedRequesters": true,
+  "priceDataStorageTTLSeconds": 1210000,
+  "trustedPublishers": [],
+  "trustedRequesters": []
+}

@@ -1,0 +1,65 @@
+{
+  "cronExpression": "*/15 * * * * *",
+  "priceAggregator": "median",
+  "sourceTimeout": 50000,
+  "minDataFeedsPercentageForBigPackage": 50,
+  "minValidSourcesPercentage": 10,
+  "deviationCheck": {
+    "deviationWithRecentValues": {
+      "maxPercent": 35,
+      "maxDelayMilliseconds": 300000
+    }
+  },
+  "base": "USD",
+  "defaultSource": ["tonconsole"],
+  "tokens": {
+    "TON": {
+      "source": [
+        "tonconsole",
+        "stonfi",
+        "cryptocom",
+        "gateio",
+        "lbank",
+        "okx",
+        "phemex",
+        "xt",
+        "coinex"
+      ]
+    },
+    "USDT": {
+      "source": [
+        "tonconsole",
+        "coinbase",
+        "cryptocom",
+        "gateio",
+        "okx"
+      ]
+    },
+    "STON": {
+      "source": [
+        "tonconsole",
+        "stonfi",
+        "coinex"
+      ]
+    },
+    "SCALE": {
+      "source": [
+        "tonconsole"
+      ]
+    },
+    "NOT": {
+      "source": [
+        "tonconsole",
+        "stonfi",
+        "coinbase",
+        "cryptocom",
+        "gateio",
+        "lbank",
+        "okx",
+        "phemex",
+        "xt",
+        "coinex"
+      ]
+    }
+  }
+}
