@@ -73,7 +73,8 @@
         "dataServiceId": "farmix-gate-prod-1",
         "tonAdminAddress": "",
         "ecdsaPublicKey": "9e1c8a948d79c1175c3a372ee5c2211d0a26c72e195e147346c76760490d84caeb4af59b549f988539c15bb4fe3f190140a8c71fc2c7bf265437c846948f6d17",
-        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/gateway-manifests/main.json"
+        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/gateway-manifests/main.json",
+        "baseUrl": ""
       },
       "0xd4db34dbc5ba1badaee26965ae69084fe6f9bc9c": {
         "name": "farmix prod 2",
@@ -82,7 +83,8 @@
         "dataServiceId": "farmix-gate-prod-2",
         "tonAdminAddress": "",
         "ecdsaPublicKey": "4e6eab6a8c96e307ed5b8f0ed1422e5b1e0608ef16e8e8f5027ec516a6878bf9e018fc58afcbb9588132020da374ba4ac4519501f8210dae3d602eb7806cdea2",
-        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/gateway-manifests/main.json"
+        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/gateway-manifests/main.json",
+        "baseUrl": ""
       },
       "0xfb868a9b45942900d954d744c3c9eebb6055e5e5": {
         "name": "farmix prod 3",
@@ -91,7 +93,8 @@
         "dataServiceId": "farmix-gate-prod-3",
         "tonAdminAddress": "",
         "ecdsaPublicKey": "1843a7ade8f8ce99e7eb047f561fa89869c3dcf2dfead568f326e91fdfa492c87e3e5fb75fc44d98f75d970a73186ab2e69609b74d4d453f3c77f743cd5512cf",
-        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/gateway-manifests/main.json"
+        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/gateway-manifests/main.json",
+        "baseUrl": ""
       },
       "0x9284404446eba017d70c31188f57aa4beec78191": {
         "name": "farmix prod 4",
@@ -100,7 +103,8 @@
         "dataServiceId": "farmix-gate-prod-4",
         "tonAdminAddress": "",
         "ecdsaPublicKey": "d0d58975752bdee0d2f9e3f81e66de2983c788f83d68df4587582978e859afc8b29b7092c5536f71c75854c6739daa5503f8dee442fdccbf9e4e8c3748bbcaec",
-        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/gateway-manifests/main.json"
+        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/gateway-manifests/main.json",
+        "baseUrl": ""
       }
     }
   }
