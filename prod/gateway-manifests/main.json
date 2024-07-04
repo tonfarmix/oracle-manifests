@@ -1,6 +1,11 @@
 {
   "restrictApiToTrustedRequesters": true,
   "priceDataStorageTTLSeconds": 1210000,
-  "trustedPublishers": [],
+  "trustedPublishers": [
+    "0xc4416fc88d18f1fd4db5fe122e9c3c38e90db2f3",
+    "0x5d6d7f3b5bd003d5000d5dd60839363f94368433",
+    "0xa5562a54ab7bcc98a2f3fb35dfdd1ded4c8368c4",
+    "0xfd3693ddf5409e304fa0ded74e512802753c9a6e"
+  ],
   "trustedRequesters": []
 }
