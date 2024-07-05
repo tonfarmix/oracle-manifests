@@ -7,5 +7,7 @@
     "0xa5562a54ab7bcc98a2f3fb35dfdd1ded4c8368c4",
     "0xfd3693ddf5409e304fa0ded74e512802753c9a6e"
   ],
-  "trustedRequesters": []
+  "trustedRequesters": [
+    "0x26d2775a813da23eabf02bc95349ecb28be8f0f4"
+  ]
 }
