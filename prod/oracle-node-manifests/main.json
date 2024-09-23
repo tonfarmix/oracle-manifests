@@ -60,6 +60,24 @@
         "xt",
         "coinex"
       ]
+    },
+    "STONFI_POOL$EQB3ncyBUTjZUA5EnFKR5_EnOMI9V1tTEAAPaiU71gc4TiUt$EQD8TJ8xEWB1SpnRE4d89YO3jl0W0EiBnNS4IBaHaUmdfizE": {
+      "source": [
+        "liteserversstonfipools"
+      ],
+      "decimals": 0
+    },
+    "STONFI_POOL$EQB3ncyBUTjZUA5EnFKR5_EnOMI9V1tTEAAPaiU71gc4TiUt$EQARK5MKz_MK51U5AZjK3hxhLg1SmQG2Z-4Pb7Zapi_xwmrN": {
+      "source": [
+        "liteserversstonfipools"
+      ],
+      "decimals": 0
+    },
+    "STONFI_POOL$EQB3ncyBUTjZUA5EnFKR5_EnOMI9V1tTEAAPaiU71gc4TiUt$EQCaY8Ifl2S6lRBMBJeY35LIuMXPc8JfItWG4tl7lBGrSoR2": {
+      "source": [
+        "liteserversstonfipools"
+      ],
+      "decimals": 0
     }
   }
 }
