@@ -8,7 +8,7 @@
         "dataServiceId": "farmix-full",
         "ecdsaPublicKey": "0x90155e036ef0629cf5d4889be93a20eb8460fa77c488f89242cf2547e34a6b5fa5ed3f8e7dca7a8e20791dcfe2e7212e64668419385291d7262c40a2bd7c2cfd",
         "tonAdminAddress": "",
-        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/oracle-node-manifests/main.json",
+        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/oracle-node-manifests/main.json"
       },
       "0x5d6d7f3b5bd003d5000d5dd60839363f94368433": {
         "name": "farmix full 2",
@@ -17,7 +17,7 @@
         "dataServiceId": "farmix-full",
         "ecdsaPublicKey": "0x7f24224c33d49cd15f1d3725aa7d8b0444772a5dac915bc29dd32be1b9ab3b18cec8f9eb0e77c7ca0c0bdb5390f4dfd44578e7356fe5c14aee800351cdbb8267",
         "tonAdminAddress": "",
-        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/oracle-node-manifests/main.json",
+        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/oracle-node-manifests/main.json"
       },
       "0xa5562a54ab7bcc98a2f3fb35dfdd1ded4c8368c4": {
         "name": "farmix full 3",
@@ -26,7 +26,7 @@
         "dataServiceId": "farmix-full",
         "ecdsaPublicKey": "0xc19dc9c57bded3572a12c63b3621ff14a0b412a97705e097c03456354ccdfb83c074f34299a51ed10228bc01ce4622761c96d15db9189988c371c8037bcb0bcb",
         "tonAdminAddress": "",
-        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/oracle-node-manifests/main.json",
+        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/oracle-node-manifests/main.json"
       },
       "0xfd3693ddf5409e304fa0ded74e512802753c9a6e": {
         "name": "farmix full 4",
@@ -35,7 +35,7 @@
         "dataServiceId": "farmix-full",
         "ecdsaPublicKey": "0xa1b5bdf55478fa8f65ef046dce35d27995783ca0ce900eaf09e6f69b4577506b221a9a315e1eee548c7d1abaed3e2d5935203149b3f17e3dd62b699745e1017e",
         "tonAdminAddress": "",
-        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/oracle-node-manifests/main.json",
+        "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/oracle-node-manifests/main.json"
       }
     },
     "gateways": {
