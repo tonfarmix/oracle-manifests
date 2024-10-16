@@ -47,7 +47,7 @@
   "EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE": {
     "symbol": "SCALE",
     "name": "Scaleton",
-    "is_ton": true,
+    "is_ton": false,
     "ton_wrapper_type": null,
     "image_url": null,
     "feedId": "SCALE",
@@ -56,7 +56,7 @@
   "EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO": {
     "symbol": "STON",
     "name": "Ston",
-    "is_ton": true,
+    "is_ton": false,
     "ton_wrapper_type": null,
     "image_url": null,
     "feedId": "STON",
