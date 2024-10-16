@@ -60,6 +60,9 @@
         "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/dev/gateway-manifests/main.json",
         "baseUrl": "http://127.0.0.1:10003"
       }
-    }
+    },
+    "jettons_configs": [
+      "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/refs/heads/main/prod/jettons-config.json"
+    ]
   }
 }
