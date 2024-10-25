@@ -47,7 +47,7 @@
         "tonAdminAddress": "",
         "ecdsaPublicKey": "9e1c8a948d79c1175c3a372ee5c2211d0a26c72e195e147346c76760490d84caeb4af59b549f988539c15bb4fe3f190140a8c71fc2c7bf265437c846948f6d17",
         "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/gateway-manifests/main.json",
-        "baseUrl": "http://94.241.173.5:10001"
+        "baseUrl": "https://oraclegw1.farmix.tg"
       },
       "0xd4db34dbc5ba1badaee26965ae69084fe6f9bc9c": {
         "name": "farmix prod 2",
