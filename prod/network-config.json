@@ -67,7 +67,7 @@
         "tonAdminAddress": "",
         "ecdsaPublicKey": "1843a7ade8f8ce99e7eb047f561fa89869c3dcf2dfead568f326e91fdfa492c87e3e5fb75fc44d98f75d970a73186ab2e69609b74d4d453f3c77f743cd5512cf",
         "manifestUrl": "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/main/prod/gateway-manifests/main.json",
-        "baseUrl": "http://147.45.183.5:10001"
+        "baseUrl": "https://oraclegw3.farmix.tg"
       }
     },
     "jettons_configs": [
