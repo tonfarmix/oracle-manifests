@@ -71,7 +71,7 @@
       }
     },
     "jettons_configs": [
-      "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/refs/heads/main/dev/jettons-config.json"
+      "https://raw.githubusercontent.com/tonfarmix/oracle-manifests/refs/heads/main/prod/jettons-config.json"
     ]
   }
 }
