@@ -13,6 +13,20 @@
   "base": "USD",
   "defaultSource": ["tonconsole"],
   "tokens": {
+    "TSTON": {
+      "source": [
+        "stonfipoolprices",
+        "dedustpoolproces"
+      ],
+      "decimals": 0
+    },
+    "STTON": {
+      "source": [
+        "stonfipoolprices",
+        "dedustpoolproces"
+      ],
+      "decimals": 0
+    },
     "TON": {
       "source": [
         "tonconsole",
@@ -44,8 +58,9 @@
     },
     "SCALE": {
       "source": [
-        "tonconsole"
-      ]
+        "dedustpoolproces"
+      ],
+      "decimals": 0
     },
     "NOT": {
       "source": [
