@@ -15,20 +15,17 @@
   "tokens": {
     "TSTON": {
       "source": [
-        "stonfipoolprices",
-        "dedustpoolproces"
+        "stonfipoolprices"
       ]
     },
     "STTON": {
       "source": [
-        "stonfipoolprices",
-        "dedustpoolproces"
+        "stonfipoolprices"
       ]
     },
     "TON": {
       "source": [
         "stonfipoolprices",
-        "dedustpoolproces",
         "tonconsole",
         "stonfi",
         "cryptocom",
@@ -43,7 +40,6 @@
     "USDT": {
       "source": [
         "stonfipoolprices",
-        "dedustpoolproces",
         "tonconsole",
         "coinbase",
         "cryptocom",
@@ -61,13 +57,12 @@
     },
     "SCALE": {
       "source": [
-        "dedustpoolproces"
+        "tonconsole"
       ]
     },
     "NOT": {
       "source": [
         "stonfipoolprices",
-        "dedustpoolproces",
         "tonconsole",
         "stonfi",
         "coinbase",
