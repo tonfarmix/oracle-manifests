@@ -17,18 +17,18 @@
       "source": [
         "stonfipoolprices",
         "dedustpoolproces"
-      ],
-      "decimals": 0
+      ]
     },
     "STTON": {
       "source": [
         "stonfipoolprices",
         "dedustpoolproces"
-      ],
-      "decimals": 0
+      ]
     },
     "TON": {
       "source": [
+        "stonfipoolprices",
+        "dedustpoolproces",
         "tonconsole",
         "stonfi",
         "cryptocom",
@@ -42,6 +42,8 @@
     },
     "USDT": {
       "source": [
+        "stonfipoolprices",
+        "dedustpoolproces",
         "tonconsole",
         "coinbase",
         "cryptocom",
@@ -51,6 +53,7 @@
     },
     "STON": {
       "source": [
+        "stonfipoolprices",
         "tonconsole",
         "stonfi",
         "coinex"
@@ -59,11 +62,12 @@
     "SCALE": {
       "source": [
         "dedustpoolproces"
-      ],
-      "decimals": 0
+      ]
     },
     "NOT": {
       "source": [
+        "stonfipoolprices",
+        "dedustpoolproces",
         "tonconsole",
         "stonfi",
         "coinbase",
