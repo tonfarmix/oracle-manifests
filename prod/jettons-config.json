@@ -61,5 +61,23 @@
     "image_url": null,
     "feedId": "STON",
     "decimals": 9
+  },
+  "EQDNhy-nxYFgUqzfUzImBEP67JqsyMIcyk2S5_RwNNEYku0k": {
+    "symbol": "stTON",
+    "name": "StakedTON",
+    "is_ton": false,
+    "ton_wrapper_type": null,
+    "image_url": "https://cache.tonapi.io/imgproxy/BBswWn_XyuF6aNntVmh-yXANFKQ_PkUpt30z-kotVvg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL21pbGtjcmVlay90b2tlbnMvc3RUT04ucG5n.webp",
+    "feedId": "STTON",
+    "decimals": 9
+  },
+  "EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav": {
+    "symbol": "tsTON",
+    "name": "Tonstakers",
+    "is_ton": false,
+    "ton_wrapper_type": null,
+    "image_url": "https://cache.tonapi.io/imgproxy/GjhSro_E6Qxod2SDQeDhJA_F3yARNomyZFKeKw8TVOU/rs:fill:200:200:1/g:no/aHR0cHM6Ly90b25zdGFrZXJzLmNvbS9qZXR0b24vbG9nby5zdmc.webp",
+    "feedId": "TSTON",
+    "decimals": 9
   }
 }
