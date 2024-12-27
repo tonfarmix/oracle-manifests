@@ -35,6 +35,15 @@
     "feedId": "TON",
     "decimals": 9
   },
+  "EQCS4UEa5UaJLzOyyKieqQOQ2P9M-7kXpkO5HnP3Bv250cN3": {
+    "symbol": "PTONv2",
+    "name": "Stonfi Proxy TON V2",
+    "is_ton": true,
+    "ton_wrapper_type": "pton-v2",
+    "image_url": "https://static.farmix.tg/ton_symbol.webp",
+    "feedId": "TON",
+    "decimals": 9
+  },
   "TON":  {
     "symbol": "TON",
     "name": "Native TON",
