@@ -97,6 +97,18 @@
         "liteserversstonfipools"
       ],
       "decimals": 0
+    },
+    "STONFI_POOL:$EQDQ6j53q21HuZtw6oclm7z4LU2cG6S2OKvpSSMH548d7kJT$EQDEcs1sIvkCukMJO8eqflQle4Rzk98tvnkaQyz0sbbaM23C": {
+      "source": [
+        "liteserversstonfipools"
+      ],
+      "decimals": 0
+    },
+    "STONFI_POOL:$EQAQYbnb1EGK0Wb8mk3vEW4vbHTyv7cOcfJlPWQ87_6_qfzR$EQAFtMZmka_ki1em2CeWcYKZiia5IHeHzs2c9ll4cmSAePdX": {
+      "source": [
+        "liteserversstonfipools"
+      ],
+      "decimals": 0
     }
   }
 }
