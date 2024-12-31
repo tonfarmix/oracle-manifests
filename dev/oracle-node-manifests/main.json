@@ -23,6 +23,11 @@
         "stonfipoolprices"
       ]
     },
+    "STORM": {
+      "source": [
+        "stonfipoolprices"
+      ]
+    },
     "TON": {
       "source": [
         "stonfipoolprices",
