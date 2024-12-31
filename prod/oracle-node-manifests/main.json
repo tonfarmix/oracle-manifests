@@ -13,6 +13,11 @@
   "base": "USD",
   "defaultSource": ["tonconsole"],
   "tokens": {
+    "STORM": {
+      "source": [
+        "stonfipoolprices"
+      ]
+    },
     "TSTON": {
       "source": [
         "stonfipoolprices"

@@ -88,5 +88,14 @@
     "image_url": "https://cache.tonapi.io/imgproxy/GjhSro_E6Qxod2SDQeDhJA_F3yARNomyZFKeKw8TVOU/rs:fill:200:200:1/g:no/aHR0cHM6Ly90b25zdGFrZXJzLmNvbS9qZXR0b24vbG9nby5zdmc.webp",
     "feedId": "TSTON",
     "decimals": 9
+  },
+  "EQBsosmcZrD6FHijA7qWGLw5wo_aH8UN435hi935jJ_STORM": {
+    "symbol": "STORM",
+    "name": "Storm",
+    "is_ton": false,
+    "ton_wrapper_type": null,
+    "image_url": "https://cache.tonapi.io/imgproxy/4ostIU6F0pvfI_kQyA4ANA6w_E_MbxPB0cwI7cTZlNg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdGF0aWMuc3Rvcm0udGcvVE9LRU4ucG5n.webp",
+    "feedId": "STORM",
+    "decimals": 9
   }
 }
