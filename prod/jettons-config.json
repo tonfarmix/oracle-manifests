@@ -53,6 +53,15 @@
     "feedId": "TON",
     "decimals": 9
   },
+  "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c": {
+    "symbol": "TON",
+    "name": "Stonfi TON Placeholder",
+    "is_ton": true,
+    "ton_wrapper_type": "stonfi-ton-placeholder",
+    "image_url": "https://static.farmix.tg/ton_symbol.webp",
+    "feedId": "TON",
+    "decimals": 9
+  },
   "EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE": {
     "symbol": "SCALE",
     "name": "Scaleton",
