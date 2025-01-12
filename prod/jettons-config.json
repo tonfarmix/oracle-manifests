@@ -1,6 +1,6 @@
 {
   "EQAbsw1XlEH_28TzqySKRgzXSOKp8ETcDVm6eHHaMWSCaNWv": {
-    "symbol": "TONS",
+    "symbol": "TON",
     "name": "PtonWrapperV1",
     "is_ton": true,
     "ton_wrapper_type": "pton-wrapper-v1",
