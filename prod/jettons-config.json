@@ -76,7 +76,7 @@
     "name": "Ston",
     "is_ton": false,
     "ton_wrapper_type": null,
-    "image_url": null,
+    "image_url": "https://static.farmix.tg/stonfi-logo.png",
     "feedId": "STON",
     "decimals": 9
   },
