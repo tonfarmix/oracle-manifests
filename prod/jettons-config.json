@@ -106,5 +106,13 @@
     "image_url": "https://cache.tonapi.io/imgproxy/4ostIU6F0pvfI_kQyA4ANA6w_E_MbxPB0cwI7cTZlNg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdGF0aWMuc3Rvcm0udGcvVE9LRU4ucG5n.webp",
     "feedId": "STORM",
     "decimals": 9
+  },
+  "EQBYnUrIlwBrWqp_rl-VxeSBvTR2VmTfC4ManQ657n_BUILD": {
+    "symbol": "BUILD",
+    "name": "Build",
+    "is_ton": false,
+    "ton_wrapper_type": null,
+    "image_url": "https://cache.tonapi.io/imgproxy/vyY_g9iFGxhIouuS_1A82pLJe-aTcRTIy5hT7J_HUvg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9jZG4uam9pbmNvbW11bml0eS54eXovYnVpbGQvYnVpbGRfbG9nby5wbmc.webp",
+    "feedId": "BUILD"
   }
 }
