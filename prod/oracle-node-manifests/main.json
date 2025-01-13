@@ -132,7 +132,7 @@
       ],
       "decimals": 0
     },
-    "STONFI_POOL:$EQByADL5Ra2dldrMSBctgfSm2X2W1P61NVW2RYDb8eJNJGx6:EQBka2QNtPb0sTQexdn9c6eMFK6ueZtzqEMcYLanm5LRpHyd": {
+    "STONFI_POOL:$EQByADL5Ra2dldrMSBctgfSm2X2W1P61NVW2RYDb8eJNJGx6$EQBka2QNtPb0sTQexdn9c6eMFK6ueZtzqEMcYLanm5LRpHyd": {
       "source": [
         "liteserversstonfipools"
       ],
