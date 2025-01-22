@@ -115,5 +115,14 @@
     "image_url": "https://cache.tonapi.io/imgproxy/vyY_g9iFGxhIouuS_1A82pLJe-aTcRTIy5hT7J_HUvg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9jZG4uam9pbmNvbW11bml0eS54eXovYnVpbGQvYnVpbGRfbG9nby5wbmc.webp",
     "feedId": "BUILD",
     "decimals": 9
+  },
+  "EQB420yQsZobGcy0VYDfSKHpG2QQlw-j1f_tPu1J488I__PX": {
+    "symbol": "PX",
+    "name": "Px",
+    "is_ton": false,
+    "ton_wrapper_type": null,
+    "image_url": "https://cache.tonapi.io/imgproxy/xpuSDFwMP8diygrbHsTcbfZX51dp_Vv-tT-3ehcE1LM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdGF0aWMubm90cHguYXBwL3B4X2xvZ28ucG5n.webp",
+    "feedId": "PX",
+    "decimals": 9
   }
 }

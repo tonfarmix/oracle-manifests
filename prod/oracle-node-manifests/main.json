@@ -13,6 +13,11 @@
   "base": "USD",
   "defaultSource": ["tonconsole"],
   "tokens": {
+    "PX": {
+      "source": [
+        "stonfipoolprices"
+      ]
+    },
     "BUILD": {
       "source": [
         "stonfipoolprices"
@@ -133,6 +138,12 @@
       "decimals": 0
     },
     "STONFI_POOL:$EQByADL5Ra2dldrMSBctgfSm2X2W1P61NVW2RYDb8eJNJGx6$EQBka2QNtPb0sTQexdn9c6eMFK6ueZtzqEMcYLanm5LRpHyd": {
+      "source": [
+        "liteserversstonfipools"
+      ],
+      "decimals": 0
+    },
+    "STONFI_POOL:$EQADEFMTMnC-gu5v2U0ZY8AYaGhAOk9TcECg1TOquAW3r-IE$EQAOkcLROvIMcaXNnp4mE7x9u1eEOJoTrebPBK-UHPTlZbCe": {
       "source": [
         "liteserversstonfipools"
       ],
