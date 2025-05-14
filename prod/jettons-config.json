@@ -44,7 +44,7 @@
     "feedId": "TON",
     "decimals": 9
   },
-  "TON":  {
+  "TON": {
     "symbol": "TON",
     "name": "Native TON",
     "is_ton": true,
@@ -124,5 +124,14 @@
     "image_url": "https://cache.tonapi.io/imgproxy/xpuSDFwMP8diygrbHsTcbfZX51dp_Vv-tT-3ehcE1LM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdGF0aWMubm90cHguYXBwL3B4X2xvZ28ucG5n.webp",
     "feedId": "PX",
     "decimals": 9
+  },
+  "EQAIb6KmdfdDR7CN1GBqVJuP25iCnLKCvBlJ07Evuu2dzP5f": {
+    "symbol": "USDE",
+    "name": "Usde",
+    "is_ton": false,
+    "ton_wrapper_type": null,
+    "image_url": "https://ethena.fi/shared/usde.png",
+    "feedId": "USDE",
+    "decimals": 6
   }
 }
