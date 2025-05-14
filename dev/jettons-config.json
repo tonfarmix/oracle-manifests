@@ -8,15 +8,6 @@
     "feedId": "TON",
     "decimals": 9
   },
-   "EQBsosmcZrD6FHijA7qWGLw5wo_aH8UN435hi935jJ_STORM": {
-    "symbol": "STORM",
-    "name": "Storm",
-    "is_ton": false,
-    "ton_wrapper_type": null,
-    "image_url": "https://cache.tonapi.io/imgproxy/4ostIU6F0pvfI_kQyA4ANA6w_E_MbxPB0cwI7cTZlNg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdGF0aWMuc3Rvcm0udGcvVE9LRU4ucG5n.webp",
-    "feedId": "STORM",
-    "decimals": 9
-  },
   "EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT": {
     "symbol": "NOT",
     "name": "NotCoin",
@@ -53,11 +44,20 @@
     "feedId": "TON",
     "decimals": 9
   },
-  "TON":  {
+  "TON": {
     "symbol": "TON",
     "name": "Native TON",
     "is_ton": true,
     "ton_wrapper_type": null,
+    "image_url": "https://static.farmix.tg/ton_symbol.webp",
+    "feedId": "TON",
+    "decimals": 9
+  },
+  "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c": {
+    "symbol": "TON",
+    "name": "Stonfi TON Placeholder",
+    "is_ton": true,
+    "ton_wrapper_type": "stonfi-ton-placeholder",
     "image_url": "https://static.farmix.tg/ton_symbol.webp",
     "feedId": "TON",
     "decimals": 9
@@ -76,7 +76,7 @@
     "name": "Ston",
     "is_ton": false,
     "ton_wrapper_type": null,
-    "image_url": null,
+    "image_url": "https://static.farmix.tg/stonfi-logo.png",
     "feedId": "STON",
     "decimals": 9
   },
@@ -97,5 +97,41 @@
     "image_url": "https://cache.tonapi.io/imgproxy/GjhSro_E6Qxod2SDQeDhJA_F3yARNomyZFKeKw8TVOU/rs:fill:200:200:1/g:no/aHR0cHM6Ly90b25zdGFrZXJzLmNvbS9qZXR0b24vbG9nby5zdmc.webp",
     "feedId": "TSTON",
     "decimals": 9
+  },
+  "EQBsosmcZrD6FHijA7qWGLw5wo_aH8UN435hi935jJ_STORM": {
+    "symbol": "STORM",
+    "name": "Storm",
+    "is_ton": false,
+    "ton_wrapper_type": null,
+    "image_url": "https://cache.tonapi.io/imgproxy/4ostIU6F0pvfI_kQyA4ANA6w_E_MbxPB0cwI7cTZlNg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdGF0aWMuc3Rvcm0udGcvVE9LRU4ucG5n.webp",
+    "feedId": "STORM",
+    "decimals": 9
+  },
+  "EQBYnUrIlwBrWqp_rl-VxeSBvTR2VmTfC4ManQ657n_BUILD": {
+    "symbol": "BUILD",
+    "name": "Build",
+    "is_ton": false,
+    "ton_wrapper_type": null,
+    "image_url": "https://cache.tonapi.io/imgproxy/vyY_g9iFGxhIouuS_1A82pLJe-aTcRTIy5hT7J_HUvg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9jZG4uam9pbmNvbW11bml0eS54eXovYnVpbGQvYnVpbGRfbG9nby5wbmc.webp",
+    "feedId": "BUILD",
+    "decimals": 9
+  },
+  "EQB420yQsZobGcy0VYDfSKHpG2QQlw-j1f_tPu1J488I__PX": {
+    "symbol": "PX",
+    "name": "Px",
+    "is_ton": false,
+    "ton_wrapper_type": null,
+    "image_url": "https://cache.tonapi.io/imgproxy/xpuSDFwMP8diygrbHsTcbfZX51dp_Vv-tT-3ehcE1LM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdGF0aWMubm90cHguYXBwL3B4X2xvZ28ucG5n.webp",
+    "feedId": "PX",
+    "decimals": 9
+  },
+  "EQAIb6KmdfdDR7CN1GBqVJuP25iCnLKCvBlJ07Evuu2dzP5f": {
+    "symbol": "USDE",
+    "name": "Usde",
+    "is_ton": false,
+    "ton_wrapper_type": null,
+    "image_url": "https://ethena.fi/shared/usde.png",
+    "feedId": "USDE",
+    "decimals": 6
   }
 }

@@ -11,7 +11,9 @@
     }
   },
   "base": "USD",
-  "defaultSource": ["tonconsole"],
+  "defaultSource": [
+    "tonconsole"
+  ],
   "tokens": {
     "TSTON": {
       "source": [
@@ -50,6 +52,11 @@
         "cryptocom",
         "gateio",
         "okx"
+      ]
+    },
+    "USDE": {
+      "source": [
+        "pyth"
       ]
     },
     "STON": {
