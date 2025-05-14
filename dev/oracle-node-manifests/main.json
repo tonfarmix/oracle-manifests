@@ -56,7 +56,8 @@
     },
     "USDE": {
       "source": [
-        "pyth"
+        "pyth",
+        "redstone"
       ]
     },
     "STON": {
