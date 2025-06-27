@@ -20,6 +20,11 @@
         "stonfipoolprices"
       ]
     },
+    "BLUM": {
+      "source": [
+        "stonfipoolprices"
+      ]
+    },
     "BUILD": {
       "source": [
         "stonfipoolprices"
@@ -165,6 +170,12 @@
       "decimals": 0
     },
     "STONFI_POOL:$EQBSNX_5mSikBVttWhIaIb0f8jJU7fL6kvyyFVppd7dWRO6M$EQBSUY4UWGJFAps0KwHY4tpOGqzU41DZhyrT8OuyAWWtnezy": {
+      "source": [
+        "liteserversstonfipools"
+      ],
+      "decimals": 0
+    },
+    "STONFI_POOL:$EQDAPye7HAPAAl4WXpz5jOCdhf2H9h9QkkzRQ-6K5usiuQeaC$EQDPLWHkkQtlb28MX4WUnNNFkCEU9pcJaofKQsCmNg8nM5JS": {
       "source": [
         "liteserversstonfipools"
       ],

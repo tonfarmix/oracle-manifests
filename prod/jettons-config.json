@@ -133,5 +133,14 @@
     "image_url": "https://ethena.fi/shared/usde.png",
     "feedId": "USDE",
     "decimals": 6
+  },
+  "EQCAj5oiRRrXokYsg_B-e0KG9xMwh5upr5I8HQzErm0_BLUM": {
+    "symbol": "BLUM",
+    "name": "Blum",
+    "is_ton": false,
+    "ton_wrapper_type": null,
+    "image_url": "https://cdn.blum.codes/93b002b2-26c1-481b-9d2d-da5e55437e21/1d8a7194-b8ff-4475-87d3-f41be69cf50f",
+    "feedId": "BLUM",
+    "decimals": 9
   }
 }
