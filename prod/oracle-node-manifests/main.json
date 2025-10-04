@@ -25,6 +25,11 @@
         "stonfipoolprices"
       ]
     },
+    "EVAA": {
+      "source": [
+        "stonfipoolprices"
+      ]
+    },
     "BUILD": {
       "source": [
         "stonfipoolprices"

@@ -142,5 +142,14 @@
     "image_url": "https://cdn.blum.codes/93b002b2-26c1-481b-9d2d-da5e55437e21/1d8a7194-b8ff-4475-87d3-f41be69cf50f",
     "feedId": "BLUM",
     "decimals": 9
+  },
+  "EQBKMfjX_a_dsOLm-juxyVZytFP7_KKnzGv6J01kGc72gVBp": {
+    "symbol": "EVAA",
+    "name": "Evaa",
+    "is_ton": false,
+    "ton_wrapper_type": null,
+    "image_url": "https://raw.githubusercontent.com/evaafi/token-meta/refs/heads/main/icon.png",
+    "feedId": "EVAA",
+    "decimals": 9
   }
 }
