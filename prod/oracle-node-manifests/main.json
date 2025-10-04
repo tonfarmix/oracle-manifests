@@ -185,6 +185,12 @@
         "liteserversstonfipools"
       ],
       "decimals": 0
+    },
+    "STONFI_POOL:$EQCiypoBWNIEPlarBp04UePyEj5zH0ZDHxuRNqJ1WQx3FCY-$EQC-YPTEig9mR51nlw0szLaagrroa4mC1wYmmnOrp-rKzp8P": {
+      "source": [
+        "liteserversstonfipools"
+      ],
+      "decimals": 0
     }
   }
 }
