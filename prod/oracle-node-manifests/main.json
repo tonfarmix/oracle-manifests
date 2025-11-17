@@ -1,7 +1,7 @@
 {
   "cronExpression": "*/15 * * * * *",
   "priceAggregator": "median",
-  "sourceTimeout": 70000,
+  "sourceTimeout": 50000,
   "minDataFeedsPercentageForBigPackage": 50,
   "minValidSourcesPercentage": 10,
   "deviationCheck": {
