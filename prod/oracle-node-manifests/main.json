@@ -206,6 +206,24 @@
         "liteserversstonfipools"
       ],
       "decimals": 0
+    },
+    "STONFI_POOL:$EQAQYbnb1EGK0Wb8mk3vEW4vbHTyv7cOcfJlPWQ87_6_qfzR$EQAbjTl9T_2N-8-8suzh6aR-vVorACGAhtf2d4w0FC21CYM4": {
+      "source": [
+        "liteserversstonfipools"
+      ],
+      "decimals": 0
+    },
+    "STONFI_POOL:$EQADEFMTMnC-gu5v2U0ZY8AYaGhAOk9TcECg1TOquAW3r-IE$EQCdN5DuncfVAnuwtoslL3YqV9WOLc5LINkArjuDf5kRZOJq": {
+      "source": [
+        "liteserversstonfipools"
+      ],
+      "decimals": 0
+    },
+    "STONFI_POOL:$EQDTb1w1TCohFqnNcyPrrbbBJQdAwwPn8DbCoaSUd0S5T4fB$EQDTG1FR2p9buAwsgRPt252a7b1KB0jKNY054UaUgFDorbWK": {
+      "source": [
+        "liteserversstonfipools"
+      ],
+      "decimals": 0
     }
   }
 }
